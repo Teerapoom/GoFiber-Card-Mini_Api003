@@ -1,6 +1,12 @@
 # GoFiber-Card-Mini_Api003
 Methot Get and Post ( Test Gofiber )
 
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=go,postman)](https://skillicons.dev)
+- GoFiber
+- Gorm
+- Postman
+
 ## Api 
 
 ```
