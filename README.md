@@ -2,10 +2,11 @@
 Methot Get and Post ( Test Gofiber )
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=go,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postman,mysql)](https://skillicons.dev)
 - GoFiber
 - Gorm
 - Postman
+- MySQL
 
 ## Api 
 
